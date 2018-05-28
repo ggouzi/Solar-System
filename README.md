@@ -4,6 +4,8 @@
 A 3D animation of our solar system and all its planets with Three.js library<br/>
 Navigate between planets and realize how wide is our Solar System
 
+**NOTE** Rendering on [demo webpage](https://ggouzi.github.io/Solar-System/) rendering time can be long
+
 ## Dependencies
 * [ThreeJS](https://github.com/mrdoob/three.js) - 3D animation API
 * [dat.gui](https://github.com/dataarts/dat.gui) - Controller for User Interface
